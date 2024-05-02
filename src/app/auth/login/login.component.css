@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    }
+  
+  form {
+    background-color: #a19696; /* Color de fondo */
+    padding: 20px; /* Espacio interno */
+    border-radius: 10px; /* Borde redondeado */
+  }
